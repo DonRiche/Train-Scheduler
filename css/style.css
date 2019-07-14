@@ -1,13 +1,15 @@
 body{
     margin-left: 5%;
     margin-right: 5%;
-
 }
+
 header{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(146, 91, 58);
+    background-color: rgb(175, 98, 49);
     color: white;
     text-align: center;
+    border-radius:7px; 
+    border: 1px solid  rgb(175, 98, 49);
 }
 
 .header-name{
@@ -36,7 +38,6 @@ th{
     padding-left: 3%;
     padding-right: 3%;
     border-bottom: 1px dotted grey;
-    
 }
 
 td{
