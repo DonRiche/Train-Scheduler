@@ -1,3 +1,10 @@
+var addTrainName = $('#trainInputName')
+var addDestination = $('#destinationInputName')
+var addFirstTrain = $('#firstTrainInputName')
+var addFrequency = $('#frequencyInputName')
+
+var submitButton = $('#submitOn')
+
 var firebaseConfig = {
     apiKey: "AIzaSyBiEpvBpunUVTCaXZn0M45oyG82QGvBMWA",
     authDomain: "test-afb4b.firebaseapp.com",
